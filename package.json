@@ -1,0 +1,13 @@
+{
+  "name": "pydemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
